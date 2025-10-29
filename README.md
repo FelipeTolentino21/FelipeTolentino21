@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Felipe Tolentino
 
 ### 💻 Sobre mim
-Sou estudante de **Ciência da Computação** (4º semestre) e entusiasta de **desenvolvimento front-end**. Estou sempre explorando novas tecnologias, frameworks modernos e boas práticas de programação para criar aplicações eficientes, organizadas e com uma ótima experiência para o usuário.
+Sou estudante de **Ciência da Computação** (6º semestre) e entusiasta de **desenvolvimento front-end**. Estou sempre explorando novas tecnologias, frameworks modernos e boas práticas de programação para criar aplicações eficientes, organizadas e com uma ótima experiência para o usuário.
 
 ![FelipeTolentino21's Stats](https://github-readme-stats.vercel.app/api?username=FelipeTolentino21&theme=kacho_ga&show_icons=true&hide_border=false&count_private=true)
 
